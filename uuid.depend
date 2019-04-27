@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1538082950 source:e:\000_coding\pdm_develop\uuid\uuid4.c
+	<stdio.h>
+	<stdint.h>
+	<windows.h>
+	<wincrypt.h>
+	"uuid4.h"
+
+1555121200 e:\000_coding\pdm_develop\uuid\uuid4.h
+
+1555121034 source:e:\000_coding\pdm_develop\uuid\main.cpp
+	<iostream>
+	"uuid4.h"
+
+1538082950 source:e:\000_coding\pdm_develop\uuid\uuid4.cpp
+	<stdio.h>
+	<stdint.h>
+	<windows.h>
+	<wincrypt.h>
+	"uuid4.h"
+
